@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_a97c9a1f21ac76f97d02290be364afb1509c5305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_371be8232e56dae2af04f45c86edc058236240bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_4dca417bb213bff0d82955c0fd7906d986370dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e0e889131ab94f74ab964b2bf6ff157edfb355b">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.roughike-bottom-bar-2.0_380a711e47be9dcd4148049936fb66b641302625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_418a98dc75a81f97658f7c16405d0e373a774d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_beb377c4fae78ab6859d4ff264d259af7dc6cb1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_984f6a72a86919345700d287cdd256dac8648788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\eclipse\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_03f05fb3212b9f6ec015641261a8a515da801215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_7cbeacc0ba213f75e75d870f875da7889ecd2f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_2af6300e7e253f3284d21b1130714db2df4ad4c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_e26f654e392faf56ea7b8bc8797a10dc3b5d3add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ae10b32bbd9094e324e7d860e2339cc40152205a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_e3dbf6da7133438eb31800ab2b51c5bf34b2d9ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5cbfd99dec859872b666c5ab0d0840d97f14134c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_a6df837c50d100a135afea175ff3bfbbf0ffd65b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_36432341979653740c19a1b3cc51f70bc51e0975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\libs\jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\jsoup-1.10.2_58e0c6b990481524f2d04c4de6fd052d5587decd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_e26f654e392faf56ea7b8bc8797a10dc3b5d3add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_58c305f43e711f496735d5c16a152b70cead6c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.4.1.2\64950d33e2d3095cc831b414063bea45524103d4\httpclient-4.4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64950d33e2d3095cc831b414063bea45524103d4">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\httpclient-4.4.1.2_866c69c9852e241a4d09f7baad1358e5e58363e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_fa9d3691f582472e48fc6062174ad445884371ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_d9c90c1dad77f03077dc288b1bf9c3623933663d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_beb377c4fae78ab6859d4ff264d259af7dc6cb1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_d00fcb57a0e0654c25f63389adf66f41bf83b776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_e3dbf6da7133438eb31800ab2b51c5bf34b2d9ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_4dca417bb213bff0d82955c0fd7906d986370dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\eclipse\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_03f05fb3212b9f6ec015641261a8a515da801215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_984f6a72a86919345700d287cdd256dac8648788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_7cbeacc0ba213f75e75d870f875da7889ecd2f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_2af6300e7e253f3284d21b1130714db2df4ad4c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e0e889131ab94f74ab964b2bf6ff157edfb355b">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.roughike-bottom-bar-2.0_380a711e47be9dcd4148049936fb66b641302625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5cbfd99dec859872b666c5ab0d0840d97f14134c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_a97c9a1f21ac76f97d02290be364afb1509c5305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_087d01b6c8d7d9209e61c7d53fd5fe189da6fda1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_371be8232e56dae2af04f45c86edc058236240bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_087d01b6c8d7d9209e61c7d53fd5fe189da6fda1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ae10b32bbd9094e324e7d860e2339cc40152205a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_fa9d3691f582472e48fc6062174ad445884371ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_d00fcb57a0e0654c25f63389adf66f41bf83b776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_d9c90c1dad77f03077dc288b1bf9c3623933663d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_a6df837c50d100a135afea175ff3bfbbf0ffd65b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.4.1.2\64950d33e2d3095cc831b414063bea45524103d4\httpclient-4.4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64950d33e2d3095cc831b414063bea45524103d4">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\httpclient-4.4.1.2_866c69c9852e241a4d09f7baad1358e5e58363e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_418a98dc75a81f97658f7c16405d0e373a774d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\libs\jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\jsoup-1.10.2_58e0c6b990481524f2d04c4de6fd052d5587decd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_58c305f43e711f496735d5c16a152b70cead6c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_36432341979653740c19a1b3cc51f70bc51e0975.jar" />
+    </item>
+
+</items>

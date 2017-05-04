@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ee5f22</color>
+    <color name="colorPrimaryDark">#d35c0e</color>
+    <color name="colorAccent">#ff9924</color>
+    <color name="backgroundColor">#4e4e4e</color>
+    <color name="fontcolor">#ffffff</color>
+    <!--<color name="hintfontcolor">#2e6d83</color>-->
+    <color name="hintfontcolor">#976c4a</color>
+    <!--<color name="colorButtonNormal">#32bef1</color>-->
+    <color name="colorButtonNormal">#f2781a</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="primary_text_material_light">#ff8750</color>
+    <color name="secondary_text_material_dark">#ffffff</color>
+    <color name="secondary_text_material_light">#ff8512</color>
+    <color name="tb_color">#00769e</color>
+    <color name="btn_active">#2b8791</color>
+    <color name="transparent">#00ffffff</color>
+
+    <!-- Sweet colors for registration and login -->
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#ffea00</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+</resources>

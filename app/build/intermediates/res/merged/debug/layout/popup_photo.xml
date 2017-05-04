@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/popup_background"
+    >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="50dp">
+        <TextView
+            android:id="@+id/tvPopupTitle"
+            android:gravity="center"
+            android:padding="15dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Profile's overview" />
+        </ScrollView>
+        <FrameLayout
+            android:id="@+id/frame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"> -->
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:minHeight="150dp"
+            android:background="@drawable/popup_background"
+            android:layout_width="match_parent"
+            android:layout_gravity="bottom"
+            android:layout_height="?attr/actionBarSize" />
+    </FrameLayout>
+</FrameLayout>

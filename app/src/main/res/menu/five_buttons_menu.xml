@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_Hold"
+        android:icon="@drawable/holdoff"
+        android:title=" "
+        android:enabled="true"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        />
+    <item
+    android:id="@+id/item_GotoLeft"
+    android:icon="@android:drawable/ic_media_previous"
+    android:title=" "
+    android:enabled="true"
+    android:orderInCategory="1"
+    app:showAsAction="always"
+    />
+    <item
+    android:id="@+id/item_PlayStop"
+    android:icon="@android:drawable/ic_media_pause"
+    android:title=" "
+    android:enabled="true"
+    android:orderInCategory="3"
+    app:showAsAction="always"
+    />
+    <item
+        android:id="@+id/item_GoToRight"
+        android:icon="@android:drawable/ic_media_next"
+        android:title=" "
+        android:enabled="true"
+        android:orderInCategory="5"
+        app:showAsAction="always"/>
+</menu>

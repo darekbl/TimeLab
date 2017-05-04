@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:weightSum="100"
+    android:orientation="horizontal">
+
+        <FrameLayout
+            android:id="@+id/flBottom1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            >
+
+            <TextView
+                android:id="@+id/tvBottom1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Video Camera"
+                />
+
+            <ImageView
+                android:id="@+id/imgBtnVideo"
+                android:layout_width="130sp"
+                android:layout_height="130sp"
+                android:scaleType="fitXY"
+                android:src="@drawable/oldvideocamicon"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                />
+        </FrameLayout>
+
+
+    <FrameLayout
+        android:id="@+id/flBottom2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="50"
+        >
+        <ImageView
+            android:id="@+id/imgBtnPhoto"
+            android:layout_width="130sp"
+            android:layout_height="130sp"
+            android:scaleType="fitXY"
+            android:src="@drawable/oldcameraicon"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+
+            />
+        <TextView
+            android:id="@+id/tvBottom2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Camera"
+            />
+        <ImageView
+            android:id="@+id/imgBtnTimes"
+            android:scaleType="fitXY"
+            android:src="@drawable/timericon"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="145dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+
+            android:layout_width="55sp"
+            android:layout_height="55sp" />
+    </FrameLayout>
+
+</LinearLayout>
+

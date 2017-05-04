@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <tabs>
+        <tab
+            id="@+id/item_GotoLeft"
+            icon="@android:drawable/ic_media_previous"
+            title="1"
+            activeColor="@color/colorAccent"
+            />
+        <tab
+            id="@+id/item_StepToLeft"
+            icon="@android:drawable/ic_media_rew"
+            title="2"
+            activeColor="@color/colorAccent" />
+        <tab
+            id="@+id/item_PlayStop"
+            icon="@android:drawable/ic_media_play"
+            title="3"
+            activeColor="@color/colorAccent"/>
+        <tab
+            id="@+id/item_StepToRight"
+            icon="@android:drawable/ic_media_ff"
+            title="4"
+            activeColor="@color/colorAccent"/>
+        <tab
+            id="@+id/item_GoToRight"
+            icon="@android:drawable/ic_media_next"
+            title="5"
+            activeColor="@color/colorAccent"/>
+    </tabs>
+
+</PreferenceScreen>

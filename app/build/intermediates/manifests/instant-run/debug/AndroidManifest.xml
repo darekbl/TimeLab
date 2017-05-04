@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="projekt.sqlmulti"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        name="projekt.sqlmulti.MyApplication"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.Blue" >
+        <activity
+            android:name="projekt.sqlmulti.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="projekt.sqlmulti.ChooseMode"
+            android:label="@string/title_activity_choose_mode"
+            android:parentActivityName="projekt.sqlmulti.MainActivity" />
+        <activity
+            android:name="projekt.sqlmulti.PhotoActivity"
+            android:label="@string/title_activity_photo"
+            android:parentActivityName="projekt.sqlmulti.ChooseMode"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="projekt.sqlmulti.ChooseMode" />
+        </activity>
+        <activity
+            android:name="projekt.sqlmulti.VideoActivity"
+            android:label="@string/title_activity_video"
+            android:parentActivityName="projekt.sqlmulti.ChooseMode"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="projekt.sqlmulti.ChooseMode" />
+        </activity>
+        <activity
+            android:name="projekt.sqlmulti.AddPhotoProfile"
+            android:label="@string/title_activity_add_photo"
+            android:parentActivityName="projekt.sqlmulti.PhotoActivity" />
+        <activity
+            android:name="projekt.sqlmulti.LoginActivity"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name="projekt.sqlmulti.SplashActivity"
+            android:label="@string/title_activity_splash"
+            android:theme="@style/FullscreenTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="projekt.sqlmulti.AddTimesArray"
+            android:label="@string/title_activity_add_times"
+            android:parentActivityName="projekt.sqlmulti.ArrayManagement" />
+        <activity
+            android:name="projekt.sqlmulti.PopupPhoto"
+            android:theme="@style/AppTheme.Custom" />
+        <activity
+            android:name="projekt.sqlmulti.AddVideoProfile"
+            android:label="@string/title_activity_add_video"
+            android:parentActivityName="projekt.sqlmulti.VideoActivity" />
+        <activity android:name="projekt.sqlmulti.RegisterActivity" />
+        <activity
+            android:name="projekt.sqlmulti.PopupVideo"
+            android:theme="@style/AppTheme.Custom" />
+        <activity
+            android:name="projekt.sqlmulti.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName="projekt.sqlmulti.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="projekt.sqlmulti.MainActivity" />
+        </activity>
+        <activity
+            android:name="projekt.sqlmulti.ArrayManagement"
+            android:label="@string/title_activity_array_management"
+            android:parentActivityName="projekt.sqlmulti.PhotoActivity" />
+        <activity
+            android:name="projekt.sqlmulti.PopupArray"
+            android:theme="@style/AppTheme.Custom" />
+        <activity
+            android:name="projekt.sqlmulti.TabbedMain"
+            android:label="@string/title_activity_tabbed_main"
+            android:parentActivityName="projekt.sqlmulti.LoginActivity"
+            android:theme="@style/AppTheme.Blue.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="projekt.sqlmulti.LoginActivity" />
+        </activity>
+        <activity android:name="projekt.sqlmulti.ImportExportActivity" />
+    </application>
+
+</manifest>

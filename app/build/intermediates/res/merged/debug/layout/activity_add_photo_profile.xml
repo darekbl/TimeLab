@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_add_photo_profile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="projekt.sqlmulti.AddPhotoProfile">
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:maxLines="1"
+            android:hint="Profile Name"
+            android:ems="10"
+            android:id="@+id/etAddPhotoNameProfile" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+    <EditText
+        android:id="@+id/etAddPhotoProcTimeProfile"
+        android:layout_width="match_parent"
+        android:hint="Process Time"
+        android:padding="10dp"
+        android:maxLines="1"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_marginTop="20dp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:padding="10dp"
+        android:maxLines="1"
+        android:hint="Frames amount"
+        android:ems="10"
+        android:layout_marginTop="19dp"
+        android:id="@+id/etAddPhotoSpeedProfile" />
+        </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.v7.widget.SwitchCompat
+        android:text="Direction"
+        android:padding="@dimen/padd_times_array"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/swPhotoDirection"
+        android:textColor="@color/fontcolor" />
+
+        <android.support.v7.widget.SwitchCompat
+            android:text="Shutter : Internal/External"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padd_times_array"
+            android:id="@+id/swShutter"
+            android:textColor="@color/fontcolor" />
+
+        <android.support.v7.widget.SwitchCompat
+        android:padding="@dimen/padd_times_array"
+        android:text="Return Mode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/swPhotoReturnMode"
+            android:textColor="@color/fontcolor" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dotted"
+            android:layerType="software"
+            android:padding="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:text="Times array"
+                android:layout_gravity="center"
+                android:textColor="@color/hintfontcolor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvMainSummary"
+                />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:background="@color/colorButtonNormal"
+            android:hint="Choose times's array"
+            android:id="@+id/spinTimesArray"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.v7.widget.AppCompatButton
+            android:text="Array Managment"
+            android:textSize="12sp"
+            android:padding="10dp"
+            android:background="@color/transparent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:id="@+id/btnAddNewArray" />
+    </LinearLayout>
+
+        <Button
+        android:text="@string/agree"
+        android:backgroundTint="@color/colorButtonNormal"
+            android:background="@color/colorButtonNormal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+            android:padding="10dp"
+        android:id="@+id/btnAgreeAddPhotoActivity"
+        />
+
+    </LinearLayout>
+</ScrollView>

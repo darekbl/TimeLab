@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dp">
+
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <!--<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="7"
+    android:padding="10dp"
+    android:orientation="horizontal"
+    android:stretchColumns="*"
+    android:dividerPadding="10dp"
+    android:useDefaultMargins="true">
+    -->
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="Name:"
+            android:padding="@dimen/padd_times_array"
+            android:id="@+id/eTNameOfTimes" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:inputType="number"
+        android:digits="0123456789"
+        android:hint="@string/item_array_1"
+        android:textSize="@dimen/tab_text_size"
+        android:padding="@dimen/padd_times_array"
+    android:id="@+id/eTim1" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="number"
+        android:digits="0123456789"
+        android:hint="@string/item_array_2"
+        android:textSize="@dimen/tab_text_size"
+        android:padding="@dimen/padd_times_array"
+        android:id="@+id/eTim2" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="number"
+        android:hint="@string/item_array_3"
+        android:textSize="@dimen/tab_text_size"
+        android:padding="@dimen/padd_times_array"
+        android:id="@+id/eTim3" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="number"
+        android:hint="@string/item_array_4"
+        android:textSize="@dimen/tab_text_size"
+        android:padding="@dimen/padd_times_array"
+        android:id="@+id/eTim4" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:inputType="number"
+        android:hint="@string/item_array_5"
+        android:textSize="@dimen/tab_text_size"
+        android:padding="@dimen/padd_times_array"
+    android:id="@+id/eTim5" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="number"
+        android:hint="@string/item_array_6"
+        android:textSize="@dimen/tab_text_size"
+        android:padding="@dimen/padd_times_array"
+        android:id="@+id/eTim6" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="number"
+        android:hint="@string/item_array_7"
+        android:textSize="@dimen/tab_text_size"
+        android:padding="@dimen/padd_times_array"
+        android:id="@+id/eTim7" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="number"
+        android:hint="@string/item_array_8"
+        android:textSize="@dimen/tab_text_size"
+        android:padding="@dimen/padd_times_array"
+        android:id="@+id/eTim8" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="number"
+        android:hint="@string/item_array_9"
+        android:textSize="@dimen/tab_text_size"
+        android:padding="@dimen/padd_times_array"
+        android:id="@+id/eTim9" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="number"
+        android:hint="@string/item_array_10"
+        android:textSize="@dimen/tab_text_size"
+        android:padding="@dimen/padd_times_array"
+        android:id="@+id/eTim10" />
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorButtonNormal"
+        android:text="@string/agree"
+        android:padding="@dimen/padd_times_array"
+        android:layout_gravity="center"
+        android:paddingBottom="10dp"
+        android:id="@+id/btnAddArray" />
+</LinearLayout>
+</ScrollView>

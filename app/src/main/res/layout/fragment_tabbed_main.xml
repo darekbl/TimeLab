@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="projekt.sqlmulti.TabbedMain$PlaceholderFragment">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <Button
+                android:layout_weight="0.3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/simplebutton"
+                android:text="Run"
+                android:id="@+id/btnActivate" />
+            <Button
+                android:text="Profiles"
+                android:layout_weight="0.3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnGotoChoose"
+                android:background="@drawable/simplebutton" />
+
+            <Button
+                android:layout_weight="0.3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/simplebutton"
+                android:text="Request"
+                android:id="@+id/btnRequest" />
+        </LinearLayout>
+
+            <TextView
+                android:id="@+id/section_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+            android:text="Response"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:padding="10dp"
+                android:visibility="gone"
+            android:background="@drawable/dotted"
+            android:layerType="software"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvResponse"
+            />
+
+        <TextView
+            android:text="User info"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:padding="10dp"
+            android:background="@drawable/dotted"
+            android:layerType="software"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvMainUserInfo"
+            />
+
+
+        <TextView
+            android:text="Profile info"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:padding="10dp"
+            android:background="@drawable/dotted"
+            android:layerType="software"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvMainProfileInfo"
+            />
+
+        <TextView
+            android:text="Summary:"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"
+            android:padding="10dp"
+            android:background="@drawable/dotted"
+            android:layerType="software"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvMainSummary"
+            />
+</LinearLayout>
+</RelativeLayout>

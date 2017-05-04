@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:2:1-113:12
+	package
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:14:22-78
+supports-screens
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:16:5-20:40
+	android:largeScreens
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:17:9-36
+	android:smallScreens
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:19:9-36
+	android:normalScreens
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:18:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:20:9-37
+application
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:22:5-111:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:5:5-19
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:26:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:27:9-35
+	android:allowBackup
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:25:9-43
+	android:theme
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:28:9-45
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:23:9-38
+activity#projekt.sqlmulti.MainActivity
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:29:9-31:59
+	android:theme
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:30:13-41
+activity#projekt.sqlmulti.ChooseMode
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:32:9-35:58
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:34:13-63
+	android:parentActivityName
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:33:13-39
+activity#projekt.sqlmulti.PhotoActivity
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:38:13-57
+	android:parentActivityName
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:39:13-53
+	android:theme
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:37:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:41:13-43:63
+	android:value
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:43:17-60
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:42:17-63
+activity#projekt.sqlmulti.VideoActivity
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:45:9-53:20
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:47:13-57
+	android:parentActivityName
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:48:13-53
+	android:theme
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:46:13-42
+activity#projekt.sqlmulti.AddPhotoProfile
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:54:9-57:59
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:56:13-61
+	android:parentActivityName
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:55:13-44
+activity#projekt.sqlmulti.LoginActivity
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:58:9-60:60
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:60:13-57
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:59:13-42
+activity#projekt.sqlmulti.SplashActivity
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:61:9-70:20
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:63:13-58
+	android:theme
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:64:13-51
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:62:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:65:13-69:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:66:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:68:27-74
+activity#projekt.sqlmulti.AddTimesArray
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:71:9-74:61
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:73:13-61
+	android:parentActivityName
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:74:13-58
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:72:13-42
+activity#projekt.sqlmulti.PopupPhoto
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:75:9-77:54
+	android:theme
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:77:13-51
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:76:13-39
+activity#projekt.sqlmulti.AddVideoProfile
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:78:9-81:59
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:80:13-61
+	android:parentActivityName
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:81:13-56
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:79:13-44
+activity#projekt.sqlmulti.RegisterActivity
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:82:9-54
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:82:19-51
+activity#projekt.sqlmulti.PopupVideo
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:83:9-85:54
+	android:theme
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:85:13-51
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:84:13-39
+activity#projekt.sqlmulti.SettingsActivity
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:86:9-93:20
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:88:13-60
+	android:parentActivityName
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:89:13-55
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:87:13-45
+activity#projekt.sqlmulti.ArrayManagement
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:94:9-97:59
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:96:13-68
+	android:parentActivityName
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:97:13-56
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:95:13-44
+activity#projekt.sqlmulti.PopupArray
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:98:9-100:54
+	android:theme
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:100:13-51
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:99:13-39
+activity#projekt.sqlmulti.TabbedMain
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:101:9-109:20
+	android:label
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:103:13-63
+	android:parentActivityName
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:104:13-56
+	android:theme
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:105:13-61
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:102:13-39
+activity#projekt.sqlmulti.ImportExportActivity
+ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:110:9-67
+	android:name
+		ADDED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml:110:19-55
+uses-sdk
+INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.roughike:bottom-bar:2.0] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:3:5-72
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Darek\AndroidStudioProjects\SQLMulti\app\src\main\AndroidManifest.xml

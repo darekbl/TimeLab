@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+tools:context="projekt.sqlmulti.MainActivity"
+    >
+
+<item
+    android:id="@+id/action_user_logout"
+    android:icon="@android:drawable/ic_lock_power_off"
+    android:orderInCategory="100"
+    app:showAsAction="always"
+    android:title="Dodaj do ulubionych"/>
+<item
+    android:id="@+id/action_user_settings"
+    android:title="Settings">
+</item>
+    <item
+        android:id="@+id/action_import"
+        android:title="Import Database">
+    </item>
+    <item
+        android:id="@+id/action_export"
+        android:title="Export Database">
+    </item>
+</menu>
